@@ -1,1 +1,1 @@
-# Exerc-cio-de-Programa-o
+# Exercicio-de-Programacao
